@@ -1124,7 +1124,6 @@ img {
   max-width: 100%;
   height: auto;
 }
-
 .img-rounded {
   border-radius: 6px;
 }
@@ -1292,7 +1291,7 @@ p {
 }
 .lead {
   margin-bottom: 20px;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 300;
   line-height: 1.4;
 }
@@ -4276,7 +4275,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   float: left;
   height: 50px;
   padding: 15px 15px;
-  font-size: 30px;
+  font-size: 18px;
   line-height: 20px;
 }
 .navbar-brand:hover,
