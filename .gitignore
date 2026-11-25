@@ -1,0 +1,37 @@
+/dart-sass
+/data
+/scss
+/sass
+# PyCharm / IntelliJ
+.idea/
+
+# VS Code
+.vscode/
+
+# Sass source maps
+*.css.map
+
+# OS files
+.DS_Store
+Thumbs.db
+# PyCharm
+.idea/
+
+# VS Code lokale instellingen
+.vscode/
+
+# Windows/macOS rommel
+Thumbs.db
+.DS_Store
+
+# Sass source maps
+*.css.map
+
+# Photoshop / Paint.NET bronbestanden
+*.psd
+*.pdn
+
+# Tijdelijke bestanden
+*.tmp
+*.bak
+*~
